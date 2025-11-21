@@ -32,7 +32,3 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
-
-# Ignore Projects directory
-backend/
-frontend/
