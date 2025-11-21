@@ -1,6 +1,8 @@
-# ${PROJECT_NAME} - Sistema Legal para Abogados
+# 🐳 Base Docker - Entorno de Desarrollo Laravel + React
 
-Sistema integral de gestión legal desarrollado con Laravel (Backend) y React (Frontend), diseñado específicamente para bufetes de abogados y profesionales del derecho.
+Plantilla Docker lista para usar. Clona, configura y empieza a desarrollar en minutos, no horas.
+
+**✨ Mismo entorno en cualquier computador | 📦 Todos los servicios pre-configurados | 🔄 Reutilizable para múltiples proyectos**
 
 ## 🚀 Instalación Rápida
 
