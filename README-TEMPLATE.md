@@ -140,13 +140,6 @@ git submodule update --remote
 git submodule foreach git pull origin main
 ```
 
-## 🚀 Convertir en Template de GitHub
-
-1. Sube este proyecto a GitHub
-2. Ve a Settings → Template repository
-3. Marca "Template repository"
-4. Otros usuarios pueden usar "Use this template" para crear nuevos proyectos
-
 ## 📝 Ejemplo de Uso
 
 ```bash
